@@ -60,28 +60,14 @@ En mis proyectos académicos combino **programación en Python, bases de datos, 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" title="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS" title="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="48" height="48" alt="Prisma" title="Prisma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="48" height="48" alt="RabbitMQ" title="RabbitMQ" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git" />
 </p>
 
-**Flask · NestJS · Prisma · RabbitMQ · Docker · Git**
+**Flask · NestJS  · Docker · Git**
 
-## 🔎 Proyecto destacado
 
-### Integración de servicios de catálogo
-
-Prototipo académico con arquitectura orientada a servicios que reúne **consultas de un catálogo Excel, operaciones sobre productos en PostgreSQL y publicación de mensajes en RabbitMQ**, mediante una API en Python y una capa ESB.
-
-- **Enfoque:** desarrollo backend, acceso a distintas fuentes de datos y separación de responsabilidades.
-- **Estado:** mejoras de documentación y configuración en curso.
-
-<!-- Añadir aquí el enlace del proyecto cuando esté publicado. -->
-
-## 🌱 Mi proceso de aprendizaje
-
-Estoy organizando mis proyectos académicos en repositorios documentados, explicando el problema, mi participación, la implementación y las oportunidades de mejora. Incorporaré nuevos trabajos conforme estén preparados para compartirlos.
 
 ## 🌐 Explora mi trabajo
 
@@ -90,8 +76,6 @@ Estoy organizando mis proyectos académicos en repositorios documentados, explic
   &nbsp;·&nbsp;
   <a href="https://github.com/valeraOwner"><b>👨‍💻 Mi perfil de GitHub</b></a>
 </p>
-
-<!-- Añadir LinkedIn y portafolio cuando sus enlaces estén confirmados. -->
 
 ---
 
