@@ -1,96 +1,98 @@
-<h1 align="center">Hi, I'm Jeanpier 👋</h1>
+<h1 align="center">Hola, soy Jeanpier 👋</h1>
 
 <p align="center">
-  <b>Systems Engineering Student at UNSA · Arequipa, Peru 🇵🇪</b><br/>
-  Exploring data, building backend services, and learning through projects.
+  <b>Estudiante de Ingeniería de Sistemas en la UNSA · Arequipa, Perú 🇵🇪</b><br/>
+  Análisis de datos · Ingeniería de datos · Desarrollo backend
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Analytics-0F766E?style=for-the-badge" alt="Data Analytics" />
-  <img src="https://img.shields.io/badge/Data_Engineering-2563EB?style=for-the-badge" alt="Data Engineering" />
-  <img src="https://img.shields.io/badge/Backend_Development-7C3AED?style=for-the-badge" alt="Backend Development" />
+  Me interesa convertir datos en información útil y desarrollar soluciones mediante software.
 </p>
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 Sobre mí
 
-I'm **Jeanpier Valera**, a **Systems Engineering student at Universidad Nacional de San Agustín de Arequipa (UNSA)**.
+Soy **Jeanpier Valera**, estudiante de **Ingeniería de Sistemas en la Universidad Nacional de San Agustín de Arequipa**.
 
-I'm interested in how data and software can help solve practical problems. My academic work brings together **Python, databases, backend development, and requirements analysis**, while I continue developing my skills in **data analytics, data engineering, and machine learning**.
+En mis proyectos académicos combino **programación en Python, bases de datos, desarrollo backend y análisis de requisitos**. Actualmente fortalezco mis conocimientos en **análisis de datos, ingeniería de datos y aprendizaje automático**.
 
-- 📊 I enjoy exploring data, identifying patterns, and explaining results clearly.
-- ⚙️ I work on academic projects involving APIs, databases, and service integration.
-- 🧠 I'm exploring time-series forecasting and semantic retrieval with RAG and FAISS.
-- 📝 I contribute to requirements analysis, software documentation, and system design.
-- 🤝 I participate in **ACM UNSA**, supporting software development workshops and training activities.
+- 📊 Me interesa explorar datos, identificar patrones y comunicar resultados de forma clara.
+- ⚙️ Trabajo en proyectos académicos con APIs, bases de datos e integración de servicios.
+- 🧠 Exploro la predicción con series temporales y la recuperación de información mediante RAG y FAISS.
+- 📝 Participo en el análisis de requisitos, la documentación y el diseño de sistemas.
+- 🤝 Formo parte de **ACM UNSA**, apoyando talleres y capacitaciones de desarrollo de software.
 
-## 🎯 What I'm developing
+## 🎯 Áreas que estoy fortaleciendo
 
-| Area | Current focus |
+| Área | Mi enfoque |
 |---|---|
-| **Data analytics** | Data cleaning, exploratory analysis, visualization, and interpretation |
-| **Data engineering** | Data integration, SQL, format conversion, and ETL fundamentals |
-| **Backend development** | APIs, service integration, persistence, and application structure |
-| **Machine learning** | Predictive models, time series, and model evaluation |
+| **Análisis de datos** | Limpieza, análisis exploratorio, visualización e interpretación de datos |
+| **Ingeniería de datos** | Integración de fuentes, SQL, conversión de formatos y fundamentos de ETL |
+| **Desarrollo backend** | APIs, integración de servicios, persistencia y organización del código |
+| **Aprendizaje automático** | Modelos predictivos, series temporales y evaluación de resultados |
 
-## 🧰 Technologies I use in academic projects
+## 🧰 Tecnologías que utilizo en proyectos académicos
 
-### Languages & databases
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-### Data & machine learning
-
-<p>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
-
-### Backend & tools
-
-<p>
-  <img src="https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-## 🔎 Project spotlight
-
-### Catalog service integration
-
-An academic SOA prototype that brings together **Excel catalog queries, PostgreSQL product operations, and RabbitMQ messaging** through a Python API and an ESB layer.
-
-**Focus:** backend development, access to different data sources, and separation of responsibilities.
-
-**Status:** documentation and setup improvements in progress.
-
-<!-- Add the repository link here after publishing the project. -->
-
-## 🌱 Learning in public
-
-I'm organizing my academic projects into documented repositories, explaining the problem, my contribution, the implementation, and what can be improved. More projects will be added as they are prepared for sharing.
-
-## 🌐 Find my work
+### Lenguajes y bases de datos
 
 <p align="center">
-  <a href="https://github.com/valeraOwner?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
 </p>
 
-<!-- Add verified LinkedIn, portfolio, and contact links when available. -->
+**Python · SQL · TypeScript · PostgreSQL**
+
+### Datos y aprendizaje automático
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas" title="pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" title="scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" title="Jupyter" />
+</p>
+
+**pandas · NumPy · scikit-learn · Jupyter**
+
+### Backend y herramientas
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" title="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS" title="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="48" height="48" alt="Prisma" title="Prisma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="48" height="48" alt="RabbitMQ" title="RabbitMQ" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git" />
+</p>
+
+**Flask · NestJS · Prisma · RabbitMQ · Docker · Git**
+
+## 🔎 Proyecto destacado
+
+### Integración de servicios de catálogo
+
+Prototipo académico con arquitectura orientada a servicios que reúne **consultas de un catálogo Excel, operaciones sobre productos en PostgreSQL y publicación de mensajes en RabbitMQ**, mediante una API en Python y una capa ESB.
+
+- **Enfoque:** desarrollo backend, acceso a distintas fuentes de datos y separación de responsabilidades.
+- **Estado:** mejoras de documentación y configuración en curso.
+
+<!-- Añadir aquí el enlace del proyecto cuando esté publicado. -->
+
+## 🌱 Mi proceso de aprendizaje
+
+Estoy organizando mis proyectos académicos en repositorios documentados, explicando el problema, mi participación, la implementación y las oportunidades de mejora. Incorporaré nuevos trabajos conforme estén preparados para compartirlos.
+
+## 🌐 Explora mi trabajo
+
+<p align="center">
+  <a href="https://github.com/valeraOwner?tab=repositories"><b>📂 Ver mis repositorios</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/valeraOwner"><b>👨‍💻 Mi perfil de GitHub</b></a>
+</p>
+
+<!-- Añadir LinkedIn y portafolio cuando sus enlaces estén confirmados. -->
 
 ---
 
-<p align="center"><i>Learning by building, documenting, and improving.</i></p>
+<p align="center"><i>Aprender, construir, documentar y mejorar.</i></p>
